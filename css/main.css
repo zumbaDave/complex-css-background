@@ -1,0 +1,7 @@
+body {
+  height: 100vh;
+  /*background: linear-gradient(45deg, red 60%, blue 60%);*/
+  /*background: repeating-linear-gradient(45deg, red, purple 50px, green 60px);*/
+  background: linear-gradient(45deg, #4c00ff, transparent), repeating-linear-gradient(45deg, rgba(183, 0, 255, 0.5) 0%, #b700ff80 5%, transparent 5%, transparent 10%, rgba(183, 0, 255, 0.5) 10%, rgba(183, 0, 255, 0.5) 11%, transparent 11%, transparent 13%), #d876ff repeating-linear-gradient(-45deg, rgba(183, 0, 255, 0.5) 0px, rgba(183, 0, 255, 0.5) 30px, transparent 30px, transparent 45px);
+}
+/*# sourceMappingURL=main.css.map */
